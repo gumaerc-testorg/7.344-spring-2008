@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d962606f-c6bc-392d-903c-88aa7e027045
 resourcetype: Document
 title: Enzyme Evolution Using In Vitro Compartmentalization
 uid: f0ec87c8-de4f-a8ab-0ed3-952e70842de8

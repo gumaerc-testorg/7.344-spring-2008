@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d962606f-c6bc-392d-903c-88aa7e027045
 resourcetype: Document
 title: Library Generation by Recombination
 uid: 18eff769-af70-1272-42ac-be5723e54f54

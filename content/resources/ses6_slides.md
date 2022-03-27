@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d962606f-c6bc-392d-903c-88aa7e027045
 resourcetype: Document
 title: Enzyme Evolution by chemical Complementation
 uid: d261d9c1-9e50-ff5c-7cbf-d973e1759207

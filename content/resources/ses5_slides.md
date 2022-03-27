@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d962606f-c6bc-392d-903c-88aa7e027045
 resourcetype: Document
 title: Enzyme Evolution by Genetic Complementation
 uid: e4541526-c32a-ac52-891b-03ca4974c4b7

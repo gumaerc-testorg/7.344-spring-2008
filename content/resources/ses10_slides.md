@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d962606f-c6bc-392d-903c-88aa7e027045
 resourcetype: Document
 title: Enzyme Evolution Using Yeast Surface Display
 uid: 14d31d65-a34b-ab92-1e68-4b21b9bd9434
