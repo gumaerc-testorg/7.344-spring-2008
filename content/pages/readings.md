@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of assigned readings that students are expected
+  to be prepared to discuss in class.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
