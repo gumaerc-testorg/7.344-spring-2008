@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides information on lecture notes and lecture slides
+  from the course along with the list of lecture topics and brief summaries of the
+  lectures.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d962606f-c6bc-392d-903c-88aa7e027045
 ---
@@ -36,9 +42,9 @@ We will get to know each other and spend some time talking about how to read jou
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses1_ln))
+Notes ({{% resource_link f2e1c2bd-4855-bdb3-eda9-2728deb1106c "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses1_slides))
+Slides ({{% resource_link 34d0c7c1-0c61-bbb6-b41a-926311004ece "PDF" %}})
 
 
 {{< tdclose >}}
@@ -57,9 +63,9 @@ We will begin our discussion of enzyme evolution with the topic of how to introd
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses2_ln))
+Notes ({{% resource_link 7545ebd8-d76b-e410-099d-f9309ef1a3e2 "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses2_slides))
+Slides ({{% resource_link 006a9e13-2440-7932-3fed-78a413f905cd "PDF" %}})
 
 
 {{< tdclose >}}
@@ -78,9 +84,9 @@ We will continue our discussion of library generation examining methods that are
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses3_ln))
+Notes ({{% resource_link 7b4f872f-e015-9ab5-a575-86a3a1e15a09 "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses3_slides))
+Slides ({{% resource_link 18eff769-af70-1272-42ac-be5723e54f54 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -99,9 +105,9 @@ There are a few methods for making a library that don't fit into either category
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses4_ln))
+Notes ({{% resource_link f38003cd-1cd0-e848-9cea-959a1557350d "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses4_slides))
+Slides ({{% resource_link e8e592c5-9a99-1288-22ce-245657c8a83d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -120,9 +126,9 @@ In enzyme evolution, it is important to link the gene of interest, the enzyme it
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses5_ln))
+Notes ({{% resource_link f7d4d949-1fa0-e31c-9158-b39817ea938b "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses5_slides))
+Slides ({{% resource_link e4541526-c32a-ac52-891b-03ca4974c4b7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -141,9 +147,9 @@ Genetic complementation is often limited by the natural reactions one must use f
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses6_ln))
+Notes ({{% resource_link 1f5b254b-9d0a-63b9-3089-d9edada8691b "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses6_slides))
+Slides ({{% resource_link d261d9c1-9e50-ff5c-7cbf-d973e1759207 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -177,9 +183,9 @@ Affinity selection for improved catalysts has limitations; not all enzymatic act
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses8_ln))
+Notes ({{% resource_link 46b54f39-a7e4-6224-4d86-bafbbc87636c "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses8_slides))
+Slides ({{% resource_link 08085ce9-fd97-400d-cba3-59990654c259 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -198,9 +204,9 @@ Cell surface display is a technique for presenting proteins on the surface of ba
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses9_ln))
+Notes ({{% resource_link 5dafc89d-ea5d-c53e-737e-03319b6e40cf "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses9_slides))
+Slides ({{% resource_link 52e38ece-b7dc-1762-e55f-545b4a5d9c23 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -219,9 +225,9 @@ Yeast surface display is similar to bacterial cell surface display in that a pro
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses10_ln))
+Notes ({{% resource_link 5037b782-f917-0662-1fb6-16ea1305ec74 "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses10_slides))
+Slides ({{% resource_link 14d31d65-a34b-ab92-1e68-4b21b9bd9434 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -240,9 +246,9 @@ Ribosome display is a completely cell-free method for library selection. The phy
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses11_ln))
+Notes ({{% resource_link eb17e4cb-ce21-f048-9c2e-ace2204efef6 "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses11_slides))
+Slides ({{% resource_link 7aa2d9c3-cfed-288e-cee5-6b3db9109117 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -261,9 +267,9 @@ _In vitro_ compartmentalization (IVC) is based on water-in-oil emulsions where s
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses12_ln))
+Notes ({{% resource_link 1fc8dafb-ee42-cb06-f773-ac28f0a0e69c "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses12_slides))
+Slides ({{% resource_link f0ec87c8-de4f-a8ab-0ed3-952e70842de8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -282,9 +288,9 @@ We will wrap up our discussion about directed evolution and compare and contrast
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/ses13_ln))
+Notes ({{% resource_link 75a5c6ca-888a-1799-8577-02a2470f3d3d "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/ses13_slides))
+Slides ({{% resource_link aefc7782-26e6-f219-18b1-f5e42362598e "PDF" %}})
 
 
 {{< tdclose >}}
