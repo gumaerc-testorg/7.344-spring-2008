@@ -7,6 +7,7 @@ file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/e45
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Enzyme Evolution by Genetic Complementation
 uid: e4541526-c32a-ac52-891b-03ca4974c4b7
 ---
 Lecture presentation on enzyme evolution, in vivo selection systems, , genetic complementation, and investigating the function of genes for which no function has previously been described.
-

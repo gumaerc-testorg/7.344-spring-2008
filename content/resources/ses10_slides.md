@@ -6,6 +6,7 @@ file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/14d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Enzyme Evolution Using Yeast Surface Display
 uid: 14d31d65-a34b-ab92-1e68-4b21b9bd9434
 ---
 Lecture presentation on enzyme evolution using yeast surface display compared with bacterial surface display.
-

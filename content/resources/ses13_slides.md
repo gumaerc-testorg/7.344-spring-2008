@@ -7,6 +7,7 @@ file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/aef
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Alternate methods for enzyme design
 uid: aefc7782-26e6-f219-18b1-f5e42362598e
 ---
 Lecture presentation on alternate methods for enzyme design, approaches for enzyme evolution based on rational design, and the advantages or disadvantages of these methods as compared with directed evolution.
-

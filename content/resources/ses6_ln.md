@@ -6,6 +6,7 @@ file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/1f5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Session 6 Lecture Notes
 uid: 1f5b254b-9d0a-63b9-3089-d9edada8691b
 ---
 Lecture notes on enzyme evolution, genetic complementation, and chemical complementation.
-

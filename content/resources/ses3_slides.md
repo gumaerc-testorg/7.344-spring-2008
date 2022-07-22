@@ -5,6 +5,7 @@ file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/18e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Library Generation by Recombination
 uid: 18eff769-af70-1272-42ac-be5723e54f54
 ---
 Lecture presentation on library generation by recombination and DNA shuffling.
-

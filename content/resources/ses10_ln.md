@@ -6,6 +6,7 @@ file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/503
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Session 10 Lecture Notes
 uid: 5037b782-f917-0662-1fb6-16ea1305ec74
 ---
 Lecture notes on enzyme evolution using yeast surface display compared with bacterial surface display.
-
