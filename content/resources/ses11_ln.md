@@ -3,7 +3,8 @@ content_type: resource
 description: Lecture notes on enzyme evolution using ribosome display, a completely
   cell-free method for library selection, and the advantages of cell-free selection
   in the context of this technique.
-file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/eb17e4cbce21f0489c2eace2204efef6_ses11_ln.pdf
+file: /ol-ocw-studio-app/courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/eb17e4cbce21f0489c2eace2204efef6_ses11_ln.pdf
+file_size: 89583
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

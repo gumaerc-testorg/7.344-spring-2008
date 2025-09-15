@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture presentation on enzyme evolution using yeast surface display
   compared with bacterial surface display.
-file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/14d31d65a34bab921e684b21b9bd9434_ses10_slides.pdf
+file: /ol-ocw-studio-app/courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/14d31d65a34bab921e684b21b9bd9434_ses10_slides.pdf
+file_size: 28240
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

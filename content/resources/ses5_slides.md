@@ -3,7 +3,8 @@ content_type: resource
 description: Lecture presentation on enzyme evolution, in vivo selection systems,
   , genetic complementation, and investigating the function of genes for which no
   function has previously been described.
-file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/e4541526c32aac52891b03ca4974c4b7_ses5_slides.pdf
+file: /ol-ocw-studio-app/courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/e4541526c32aac52891b03ca4974c4b7_ses5_slides.pdf
+file_size: 82995
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

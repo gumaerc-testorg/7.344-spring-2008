@@ -4,7 +4,8 @@ description: Lecture presentation on enzyme evolution using phage display, affin
   selection for improved catalysts, direct selection of enzymes on the basis of catalysis,
   and how this type of selection is achieved using two different examples of substrate
   linkage.
-file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/08085ce9fd97400dcba359990654c259_ses8_slides.pdf
+file: /ol-ocw-studio-app/courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/08085ce9fd97400dcba359990654c259_ses8_slides.pdf
+file_size: 235550
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

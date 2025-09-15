@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture presentation on alternative methods for library generation, chemical
   mutagenesis, and the use of mutator strains.
-file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/e8e592c59a99128822ce245657c8a83d_ses4_slides.pdf
+file: /ol-ocw-studio-app/courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/e8e592c59a99128822ce245657c8a83d_ses4_slides.pdf
+file_size: 111824
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

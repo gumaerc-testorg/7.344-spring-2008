@@ -4,7 +4,8 @@ description: Lecture notes on enzyme evolution using phage display, affinity sel
   for improved catalysts, direct selection of enzymes on the basis of catalysis, and
   how this type of selection is achieved using two different examples of substrate
   linkage.
-file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/46b54f39a7e462244d86bafbbc87636c_ses8_ln.pdf
+file: /ol-ocw-studio-app/courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/46b54f39a7e462244d86bafbbc87636c_ses8_ln.pdf
+file_size: 91877
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

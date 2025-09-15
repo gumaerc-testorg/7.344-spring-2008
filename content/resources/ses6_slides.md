@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture presentation on enzyme evolution, genetic complementation, and
   chemical complementation.
-file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/d261d9c19e50ff5c7cbfd973e1759207_ses6_slides.pdf
+file: /ol-ocw-studio-app/courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/d261d9c19e50ff5c7cbfd973e1759207_ses6_slides.pdf
+file_size: 54342
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

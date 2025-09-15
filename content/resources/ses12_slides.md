@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture presentation on enzyme evolution by in vitro compartmentalization
   (IVC).
-file: /courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/f0ec87c8de4fa8ab0ed3952e70842de8_ses12_slides.pdf
+file: /ol-ocw-studio-app/courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/f0ec87c8de4fa8ab0ed3952e70842de8_ses12_slides.pdf
+file_size: 32629
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
